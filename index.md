@@ -9,46 +9,49 @@ O meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-andr
 
 ### A Estrada até Aqui
 
-Até então o que foi visto nesse curso de html e css pelo [curso em video](https://www.cursoemvideo.com/):
+Até então o que foi visto nesse curso de html e css do [curso em video](https://www.cursoemvideo.com/):
 
 1 - História da Internet;
 
-2 - História da HTML;
+2 - Como funciona a Internet;
 
-3 - Como Funciona a Internet;
+3 - Como funciona HTML e CSS;
 
-4 - Primeiro Exemplo em HTML5;
+4 -  Primeiros passos HTML;
 
-5 - Tags Básicas em HTML5;
+5 - Caracteres, parágrafos e quebras de linha;
 
-6 - Parágrafos, Quebras e Símbolos Especiais;
+6 -  Imagens e Favicon;
 
-7 - Formatação de Texto com HTML5 e CSS3;
+7 - Hierarquia de títulos;
 
-8 - Códigos de Cores em HTML5 e CSS3;
+8 - Formatação de Textos;
 
-9 - Imagens em HTML5;
+9 -  Listas HTML;
 
-10 - Formatação de Imagens com CSS3
+10 - Ligações;
 
-11 – Listas em HTML5 com OL e UL;
+11 – Imagens dinâmicas, áudios e vídeos;
 
-12 – Links em HTML5;
+12 – Trabalhando com estilos;
 
-13 – Menu com CSS3;
+13 – Cores;
 
-14 – Efeitos visuais em CSS3;
+14 – Fontes;
 
-15 – Formatação de Interfaces com HTML5;
+15 – Seletores personalizados;
 
-16 - Cabeçalho em CSS3;
+16 - Modelo de Caixas;
 
-17 – Fontes em CSS3;
+17 – Primeiro mini-projeto;
 
-#### Atualmente nesse cap - Modulo 3
+18 – Aprendendo Git e GitHub;
 
-18 – Semântica em HTML5
+#### Atualmente nesse capitulo - Modulo 3
 
+19 - Imagens de Fundo;
+
+20 - Mini-projeto Cordel;
 
 
 
