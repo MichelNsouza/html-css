@@ -1,4 +1,4 @@
-## Bem Vindo a minha page GitHub Html-CSS
+## Bem Vindo a Minha Page GitHub Html-CSS
 
 Você pode usar esse [link](https://github.com/MichelNsouza/html-css) para ver meu gitHub
 e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
