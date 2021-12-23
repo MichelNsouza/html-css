@@ -3,13 +3,14 @@
 Você pode usar esse [link](https://github.com/MichelNsouza/html-css) para ver meu gitHub
 e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
 
+### Meus Estudos!
+#### Destaques dos meus estudos.
+
+O primeiro projeto(mini), o [D10](https://michelnsouza.github.io/html-css/modulo2/desafios/d10) , proposto pelo grande gafanhoto professor Gustavo Guanabara, é o meu primeiro "site" hospedado (fiquei muito feliz *-*).
+
 ### A Estrada até Aqui
 
-O primeiro projeto(mini), o [D10](https://michelnsouza.github.io/html-css/modulo2/desafios/d10) , proposto pelo grande gafanhoto professor Gustavo Guanabara, é o meu primeiro "site" hospedado.
-
-### A Estrada até Aqui
-
-Até então o que foi visto nesse curso:
+Até então o que foi visto nesse curso de html e css pelo [curso em video](https://www.cursoemvideo.com/):
 
 1 - História da Internet;
 
@@ -58,7 +59,7 @@ Até então o que foi visto nesse curso:
 
 
 
-### Conteudo pré-escrito pelo github
+### Conteudo pré-escrito pelo github ¯\_(ヅ)_/¯
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
