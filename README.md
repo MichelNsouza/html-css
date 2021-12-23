@@ -5,7 +5,7 @@ Por Gustavo Guanabara
 
 # Bem vindo
 
-link do Desafio 10, o primeiro projeto (mini), proposto pelo grande gafanhoto professor Gustavo Guanabara https://michelnsouza.github.io/html-css/modulo2/desafios/d10
+link do Desafio 10, o primeiro projeto (mini), proposto pelo grande gafanhoto professor Gustavo Guanabara <a href=“https://michelnsouza.github.io/html-css/modulo2/desafios/d10“>Flex Grid</a> 
 
 Até então o que foi conteudo visto nesse curso:
 
