@@ -3,29 +3,62 @@
 Você pode usar esse [link](https://github.com/MichelNsouza/html-css) para ver meu gitHub
 e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A Estrada até Aqui
 
-### Markdown
+O primeiro projeto(mini), o [D10](https://michelnsouza.github.io/html-css/modulo2/desafios/d10) , proposto pelo grande gafanhoto professor Gustavo Guanabara, é o meu primeiro "site" hospedado.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A Estrada até Aqui
 
-```markdown
-Syntax highlighted code block
+Até então o que foi visto nesse curso:
 
-# Header 1
-## Header 2
-### Header 3
+1 - História da Internet;
 
-- Bulleted
-- List
+2 - História da HTML;
 
-1. Numbered
-2. List
+3 - Como Funciona a Internet;
 
-**Bold** and _Italic_ and `Code` text
+4 - Primeiro Exemplo em HTML5;
 
-[Link](url) and ![Image](src)
-```
+5 - Tags Básicas em HTML5;
+
+6 - Parágrafos, Quebras e Símbolos Especiais;
+
+7 - Formatação de Texto com HTML5 e CSS3;
+
+8 - Códigos de Cores em HTML5 e CSS3;
+
+9 - Imagens em HTML5;
+
+10 - Formatação de Imagens com CSS3
+
+11 – Listas em HTML5 com OL e UL;
+
+12 – Links em HTML5;
+
+13 – Menu com CSS3;
+
+14 – Efeitos visuais em CSS3;
+
+15 – Formatação de Interfaces com HTML5;
+
+16 - Cabeçalho em CSS3;
+
+17 – Fontes em CSS3;
+
+#### Atualmente nesse cap - Modulo 3
+
+18 – Semântica em HTML5
+
+
+
+
+
+
+
+
+
+
+### Conteudo pré-escrito pelo github
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -36,3 +69,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
