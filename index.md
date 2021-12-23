@@ -6,7 +6,7 @@ e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) p
 ### Meus Estudos!
 #### Destaques dos meus estudos.
 
-O meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/html-css/modulo2/desafios/d10) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado (fiquei muito feliz :) ).
+O meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-android/) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado (fiquei muito feliz :) ).
 
 ### A Estrada até Aqui
 
