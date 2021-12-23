@@ -1,6 +1,7 @@
 ## Bem Vindo a minha page GitHub Html-CSS
 
-Você pode usar o [editor no GitHub] (https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o conteúdo do seu site no Github.
+Você pode usar esse [link](https://github.com/MichelNsouza/html-css) para ver meu gitHub
+e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
