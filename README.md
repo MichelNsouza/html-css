@@ -5,7 +5,7 @@ Por Gustavo Guanabara
 
 # Bem vindo
 
-##https://michelnsouza.github.io/html-css/modulo2/desafios/d10
+link do Desafio 10, o primeiro projeto (mini), proposto pelo grande gafanhoto professor Gustavo Guanabara https://michelnsouza.github.io/html-css/modulo2/desafios/d10
 
 Até então o que foi conteudo visto nesse curso:
 
