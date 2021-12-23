@@ -1,7 +1,6 @@
 ## Bem Vindo a Minha Page GitHub Html-CSS
 
-Você pode usar esse [link](https://github.com/MichelNsouza/html-css) para ver meu gitHub
-e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
+Você pode usar esse [link](https://github.com/MichelNsouza) para entrar no meu perfil do GitHub, esse [link](https://github.com/MichelNsouza/html-css) para ver meu repo-gitHub de html-css e esse [link](https://github.com/MichelNsouza/html-css/edit/gh-pages/index.md) para visualizar o code dessa pag no gitHub.
 
 ### Meus Estudos!
 #### Destaques dos meus estudos.
