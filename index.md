@@ -47,9 +47,9 @@ Até então o que foi visto nesse curso de html e css do [curso em video](https:
 
 18 – Aprendendo Git e GitHub;
 
-#### Atualmente nesse capitulo - Modulo 3
-
 19 - Imagens de Fundo;
+
+#### Atualmente nesse capitulo - Modulo 3
 
 20 - Mini-projeto Cordel;
 
