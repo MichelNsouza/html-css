@@ -1,0 +1,66 @@
+/*COMENTArio tentar dps / em vez de usar <br> em cada linha envelopei os versos com a tag <pre> e na css alterei a propriedade "white-space" para "pre-line" para eliminar o espaço pelas "tabs" */
+@charset "UTF-8";
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+    html, body
+    {
+        min-height: 100vh;
+        background-color: darkgray;
+    }
+        header
+        {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+            header > h1
+            {
+                padding-top: 50px;
+                font-variant: small-caps;    
+            }
+            header > p
+            {
+                padding-bottom: 50px;
+            }
+        header a, footer a
+        {
+        color: white;
+        text-decoration: none;
+        font-weight: bolder;  
+        }
+        header a:hover, footer a:hover
+        {
+            text-decoration: underline;
+        }
+        section
+        {
+            line-height: 2em;
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+            padding-left: 30px;
+        }
+            section.normal
+            {
+                background-color: white;
+                color: black;
+            }
+            section.imagem
+            {
+                background-color: rgba(0, 0, 0, 0.418);
+                color: white;
+            }
+                section.imagem > p
+                {
+                   width: 200px;
+                   background-color: rgba(0, 0, 0, 0.267); 
+                }   
+    footer
+    {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
