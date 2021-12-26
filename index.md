@@ -51,9 +51,12 @@ Até então o que foi visto nesse curso de html e css do [curso em video](https:
 
 19 - Imagens de Fundo;
 
+20 - Mini-projeto Cordel;
+
+
 #### Atualmente nesse capitulo - Modulo 3
 
-20 - Mini-projeto Cordel;
+21 - ?
 
 
 
