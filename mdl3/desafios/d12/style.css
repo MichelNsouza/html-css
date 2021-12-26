@@ -1,9 +1,21 @@
 /*COMENTArio tentar dps / em vez de usar <br> em cada linha envelopei os versos com a tag <pre> e na css alterei a propriedade "white-space" para "pre-line" para eliminar o espaço pelas "tabs" */
+/* config global*/
 @charset "UTF-8";
 *
 {
     margin: 0px;
     padding: 0px;
+}
+/* fontes */
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+:root
+{
+    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte2:'Passion One', cursive;
+    --fonte3: 'Sriracha', cursive;
+
 }
     html, body
     {
@@ -19,7 +31,9 @@
             header > h1
             {
                 padding-top: 50px;
-                font-variant: small-caps;    
+                font-variant: small-caps;  
+                font-family: var(--fonte2);  
+                font-size: 10vw;
             }
             header > p
             {
@@ -41,6 +55,8 @@
             padding-top: 10vh;
             padding-bottom: 10vh;
             padding-left: 30px;
+            font-family: var(--fonte3);
+            font-size: 3.5vw;
         }
             section.normal
             {
@@ -54,8 +70,9 @@
             }
                 section.imagem > p
                 {
-                   width: 200px;
-                   background-color: rgba(0, 0, 0, 0.267); 
+                    display: inline-block;
+                    padding: 10px;
+                    background-color: rgba(0, 0, 0, 0.267); 
                 }   
     footer
     {
