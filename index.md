@@ -5,7 +5,9 @@ Você pode usar esse [link](https://github.com/MichelNsouza) para entrar no meu 
 ### Meus Estudos!
 #### Destaques dos meus estudos.
 
-O meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-android/)(Desafio 10) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado (fiquei muito feliz :) ).
+O meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-android/)(Desafio 10) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado.
+
+Segundo projeto, [Cordel Moderno D12](https://michelnsouza.github.io/projeto-cordel/), onde aprendir a fazer o efeito parallax nas imagens.
 
 ### A Estrada até Aqui
 
