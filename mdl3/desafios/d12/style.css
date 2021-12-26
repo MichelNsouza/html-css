@@ -22,6 +22,16 @@
         min-height: 100vh;
         background-color: darkgray;
     }
+    header a, footer a
+    {
+        color: white;
+        text-decoration: none;
+        font-weight: bolder;  
+    }
+    header a:hover, footer a:hover
+    {
+        text-decoration: underline;
+    }
         header
         {
             background-color: black;
@@ -39,16 +49,6 @@
             {
                 padding-bottom: 50px;
             }
-        header a, footer a
-        {
-        color: white;
-        text-decoration: none;
-        font-weight: bolder;  
-        }
-        header a:hover, footer a:hover
-        {
-            text-decoration: underline;
-        }
         section
         {
             line-height: 2em;
@@ -58,22 +58,41 @@
             font-family: var(--fonte3);
             font-size: 3.5vw;
         }
-            section.normal
+            section > p
             {
-                background-color: white;
-                color: black;
+                padding-bottom: 2em;
             }
-            section.imagem
+        section.normal
+        {
+            background-color: white;
+            color: black;
+        }
+        section.imagem
+        {
+            background-color: rgba(0, 0, 0, 0.418);
+            color: white;
+            box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.295);
+            background-attachment: fixed;
+        }
+            section.imagem > p
             {
-                background-color: rgba(0, 0, 0, 0.418);
-                color: white;
+                display: inline-block;
+                padding: 10px;
+                background-color: rgba(0, 0, 0, 0.541); 
+                text-shadow: 1px 1px 0px black;
             }
-                section.imagem > p
-                {
-                    display: inline-block;
-                    padding: 10px;
-                    background-color: rgba(0, 0, 0, 0.267); 
-                }   
+            section#img01
+            {
+                background-image: url(../d12/imagens/background001.jpg);
+                background-position: right center;
+                background-size: cover;
+            }
+            section#img02
+            {
+                background-image: url(../d12/imagens/background002.jpg);
+                background-size: cover;
+
+            }    
     footer
     {
         background-color: black;
