@@ -82,22 +82,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-
-#####JavaScript:
-
-01 - História do JavaScript
-
-02 - Como funciona o JS
-
-#### Atualmente nesse capitulo 
-
-03 - Primeiros passos com JS
-
-04 - Interações básicas com o usuário
-
-05 - Interações com a página
-
-06 - Fazendo umas contas
-
-07 - Ações, variáveis e dinamismo
