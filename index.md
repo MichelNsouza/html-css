@@ -5,9 +5,12 @@ Você pode usar esse [link](https://github.com/MichelNsouza) para entrar no meu 
 ### Meus Estudos!
 #### Destaques dos meus estudos.
 
+#####Html:
+
 Meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-android/)(Desafio 10) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado.
 
 Segundo projeto, [Cordel Moderno D12](https://michelnsouza.github.io/projeto-cordel/), onde aprendir a fazer o efeito parallax nas imagens.
+
 
 ### A Estrada até Aqui
 
@@ -53,7 +56,6 @@ Até então o que foi visto nesse curso de html e css do [curso em video](https:
 
 20 - Mini-projeto Cordel;
 
-
 #### Atualmente nesse capitulo - Modulo 3
 
 21 - ???
@@ -79,3 +81,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+#####JavaScript:
+
+01 - História do JavaScript
+
+02 - Como funciona o JS
+
+#### Atualmente nesse capitulo 
+
+03 - Primeiros passos com JS
+
+04 - Interações básicas com o usuário
+
+05 - Interações com a página
+
+06 - Fazendo umas contas
+
+07 - Ações, variáveis e dinamismo
