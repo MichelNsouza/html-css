@@ -5,12 +5,15 @@ Você pode usar esse [link](https://github.com/MichelNsouza) para entrar no meu 
 ### Meus Estudos!
 #### Destaques dos meus estudos.
 
-#####Html-Css:
+##### Html-Css:
 
 Meu primeiro projeto (mini), [D10](https://michelnsouza.github.io/projeto-android/)(Desafio 10) , foi proposto pelo mestre (grande gafanhoto) professor Gustavo Guanabara, e é o meu primeiro "site" hospedado.
 
 Segundo projeto, [Cordel Moderno D12](https://michelnsouza.github.io/projeto-cordel/), onde aprendir a fazer o efeito parallax nas imagens.
 
+##### JavaScript:
+
+nada por enquanto
 
 ### A Estrada até Aqui
 
@@ -59,3 +62,23 @@ Até então o que foi visto nesse curso de html e css do [curso em video](https:
 #### Atualmente nesse capitulo - Modulo 3
 
 21 - ???
+
+### A Estrada até Aqui, JavaScript:
+
+Minha page [JavaScript](https://michelnsouza.github.io/javascript/)
+
+01 - História do JavaScript;
+
+02 - Como funciona o JS;
+
+03 - Primeiros passos com JS;
+
+#### Atualmente nesse capitulo
+
+04 - Interações básicas com o usuário;
+
+05 - Interações com a página;
+
+06 - Fazendo umas contas;
+
+07 - Ações, variáveis e dinamismo;
